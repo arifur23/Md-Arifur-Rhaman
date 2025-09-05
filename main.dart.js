@@ -34501,21 +34501,21 @@ A.CK.prototype={
 M(a){var s=null,r=A.c9(a,s,t.w).w
 return A.fa(s,A.di(A.c([A.bg("Arifur Rahman",A.acg().$3$color$fontSize$fontWeight(B.h,24,B.af),s),B.bf,B.NO,B.f4,B.NP],t.D),B.Y,B.L),B.A,B.cP,s,s,s,s,s,B.AC,s,s,r.a.a*0.35)}}
 A.Eo.prototype={
-M(a){var s,r,q,p="projects_images/olive1.jpg",o=null,n="Collaborative task management tool with real-time updates, team features, and analytics.",m="Real-time task updates",l="Team collaboration features",k="Analytics dashboard",j="Cross-platform availability",i="Implementing real-time sync",h="Handling offline functionality",g="Creating intuitive UI for complex workflows",f="https://github.com/example/taskmanager",e="https://example.com/task-demo",d=t.s,c=A.c([new A.fX("Olive Stock","Olive Stocks helps investors with analyst rankings, insider trades, hedge fund tracking, and smart scores. Its unique feature is indicating whether a stock is Halal or not, making it easier for Muslim investors to find Shariah-compliant opportunities while still accessing powerful market insights.",A.c(["Flutter","NodeJs","Stripe API","GetX"],d),A.c(["Product catalog with categories and filters","Shopping cart with persistent storage","User authentication","Payment integration with Stripe","Admin dashboard"],d),A.c(["Optimizing performance for large product catalogs","Implementing secure payment processing","Creating responsive UI for all devices"],d),"https://github.com/example/ecommerce",p,"https://example.com/demo"),new A.fX("US Marine review and commanders rating","Mobile app for giving  ",A.c(["Flutter","BLoC","SQLite","Health API"],d),A.c(["Workout tracking with animations","Nutrition logging with barcode scanning","Health data integration","Personalized recommendations"],d),A.c(["Syncing with health APIs across platforms","Creating smooth workout animations","Handling large datasets efficiently"],d),"https://github.com/example/fitness","projects_images/commander_calls1.jpg","https://example.com/fitness-demo"),new A.fX("Word Search game",n,A.c(["Flutter","Firebase","Riverpod","WebSockets"],d),A.c([m,l,k,j],d),A.c([i,h,g],d),f,"projects_images/word.jpg",e),new A.fX("Task Management System",n,A.c(["Flutter","Firebase","Riverpod","WebSockets"],d),A.c([m,l,k,j],d),A.c([i,h,g],d),f,p,e)],t.th)
-d=A.J(a).ax
-s=d.k4
-d=s==null?d.k2:s
+M(a){var s,r,q,p=null,o="Collaborative task management tool with real-time updates, team features, and analytics.",n="Real-time task updates",m="Team collaboration features",l="Analytics dashboard",k="Cross-platform availability",j="Implementing real-time sync",i="Handling offline functionality",h="Creating intuitive UI for complex workflows",g="https://github.com/example/taskmanager",f="https://example.com/task-demo",e=t.s,d=A.c([new A.fX("Olive Stock","Olive Stocks helps investors with analyst rankings, insider trades, hedge fund tracking, and smart scores. Its unique feature is indicating whether a stock is Halal or not, making it easier for Muslim investors to find Shariah-compliant opportunities while still accessing powerful market insights.",A.c(["Flutter","NodeJs","Stripe API","GetX"],e),A.c(["Product catalog with categories and filters","Shopping cart with persistent storage","User authentication","Payment integration with Stripe","Admin dashboard"],e),A.c(["Optimizing performance for large product catalogs","Implementing secure payment processing","Creating responsive UI for all devices"],e),"https://github.com/example/ecommerce","projects_images/olive1.jpg","https://example.com/demo"),new A.fX("US Marine review and commanders rating","Mobile app for giving  ",A.c(["Flutter","BLoC","SQLite","Health API"],e),A.c(["Workout tracking with animations","Nutrition logging with barcode scanning","Health data integration","Personalized recommendations"],e),A.c(["Syncing with health APIs across platforms","Creating smooth workout animations","Handling large datasets efficiently"],e),"https://github.com/example/fitness","projects_images/commander_calls1.jpg","https://example.com/fitness-demo"),new A.fX("Word Search game",o,A.c(["Flutter","Firebase","Riverpod","WebSockets"],e),A.c([n,m,l,k],e),A.c([j,i,h],e),g,"projects_images/word.jpg",f),new A.fX("Task Management System",o,A.c(["Flutter","Firebase","Riverpod","WebSockets"],e),A.c([n,m,l,k],e),A.c([j,i,h],e),g,"assets/projects_images/olive1.jpg",f)],t.th)
+e=A.J(a).ax
+s=e.k4
+e=s==null?e.k2:s
 s=A.J(a).ok.e
-if(s==null)s=o
+if(s==null)s=p
 else{r=A.J(a).ok.r
-s=s.oD(r==null?o:r.b,B.af)}s=A.bg("Featured Projects",s,o)
+s=s.oD(r==null?p:r.b,B.af)}s=A.bg("Featured Projects",s,p)
 r=A.J(a).ok.r
-if(r==null)r=o
+if(r==null)r=p
 else{q=A.J(a).ok.z
-r=r.cW(q==null?o:q.b)}r=A.bg("Some of my best work",r,o)
+r=r.cW(q==null?p:q.b)}r=A.bg("Some of my best work",r,p)
 q=t.Ui
-q=A.V(new A.a_(c,new A.ZH(),q),q.h("ar.E"))
-return A.fa(o,A.di(A.c([s,B.bR,r,B.br,A.wW(q,24,24)],t.D),B.Y,B.L),B.A,d,o,o,o,o,o,B.cZ,o,o,o)}}
+q=A.V(new A.a_(d,new A.ZH(),q),q.h("ar.E"))
+return A.fa(p,A.di(A.c([s,B.bR,r,B.br,A.wW(q,24,24)],t.D),B.Y,B.L),B.A,e,p,p,p,p,p,B.cZ,p,p,p)}}
 A.ZH.prototype={
 $1(a){return new A.my(a,null)},
 $S:194}
